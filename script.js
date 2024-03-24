@@ -1,3 +1,4 @@
+alert('©Copyright By Md.Julfikar Rayim');
 // JavaScript code to auto-type text
 window.addEventListener('load', function () {
   // Element jinme text type karna hai
